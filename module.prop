@@ -1,0 +1,7 @@
+id=NoResumeCharge
+name=NoResumeCharge
+version=v1
+versionCode=1
+author=KL
+description=Prevent mipad6sp from resuming charging after rebooting with high battery level.
+#updateJson=https://pfile.ys1231.cn/modules/MoveCertificate/update.json
